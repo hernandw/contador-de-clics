@@ -38,5 +38,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://hernandw.github.io/contador-de-clics/"
+  "homepage": "https://hernandw.github.io/contador-de-clics/",
+  "engines": {
+    "node": "14.x"
+  }
 }
